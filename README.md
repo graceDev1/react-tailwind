@@ -11,6 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
  - Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
- npm install tailwindcss
+- you need to install those things before starting the server
+ npm install -D tailwindcss postcss-cli autoprefixer
 
 I use Pixabay api for fetching image
